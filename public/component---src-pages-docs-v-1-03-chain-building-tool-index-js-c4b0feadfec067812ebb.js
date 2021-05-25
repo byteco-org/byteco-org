@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[45],{Zhid:function(t,n,r){"use strict";r.r(n),r.d(n,"default",(function(){return c}));var e=r("q1tI"),o=r.n(e),a=r("YwZP");function c(t){var n=t.path;return o.a.createElement(a.Redirect,{from:n,to:n+"quick-start/",noThrow:!0})}}}]);
+//# sourceMappingURL=component---src-pages-docs-v-1-03-chain-building-tool-index-js-c4b0feadfec067812ebb.js.map

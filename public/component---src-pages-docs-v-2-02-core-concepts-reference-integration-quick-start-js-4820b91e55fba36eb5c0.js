@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[60],{VNbf:function(t,n,r){"use strict";r.r(n),r.d(n,"default",(function(){return a}));var e=r("q1tI"),o=r.n(e),c=r("YwZP");function a(t){var n=t.path;return o.a.createElement(c.Redirect,{from:n,to:"/docs/v2/revocable-contract-integration/quick-start",noThrow:!0})}}}]);
+//# sourceMappingURL=component---src-pages-docs-v-2-02-core-concepts-reference-integration-quick-start-js-4820b91e55fba36eb5c0.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[32],{LavA:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return c}));var o=e("q1tI"),r=e.n(o),a=e("YwZP");function c(n){var t=n.path;return r.a.createElement(a.Redirect,{from:t,to:t+"know-the-byteco/",noThrow:!0})}}}]);
+//# sourceMappingURL=component---src-pages-docs-v-1-01-tutorials-index-js-44c46eef45fe9db3d676.js.map

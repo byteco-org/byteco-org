@@ -1,0 +1,6 @@
+---
+title: Pair Addresses
+---
+
+# getPair
+

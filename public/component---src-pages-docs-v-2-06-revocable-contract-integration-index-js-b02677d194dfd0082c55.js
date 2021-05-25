@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[81],{r2Pu:function(t,n,r){"use strict";r.r(n),r.d(n,"default",(function(){return a}));var e=r("q1tI"),o=r.n(e),u=r("YwZP");function a(t){var n=t.path;return o.a.createElement(u.Redirect,{from:n,to:n+"quick-start/",noThrow:!0})}}}]);
+//# sourceMappingURL=component---src-pages-docs-v-2-06-revocable-contract-integration-index-js-b02677d194dfd0082c55.js.map

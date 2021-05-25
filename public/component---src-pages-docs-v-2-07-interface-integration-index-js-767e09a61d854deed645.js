@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[86],{"70k9":function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return i}));var r=e("q1tI"),o=e.n(r),a=e("YwZP");function i(n){var t=n.path;return o.a.createElement(a.Redirect,{from:t,to:t+"using-the-api/",noThrow:!0})}}}]);
+//# sourceMappingURL=component---src-pages-docs-v-2-07-interface-integration-index-js-767e09a61d854deed645.js.map

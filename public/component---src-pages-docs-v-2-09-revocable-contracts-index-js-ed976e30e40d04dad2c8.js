@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[103],{"6Q6Q":function(n,t,r){"use strict";r.r(t),r.d(t,"default",(function(){return u}));var e=r("q1tI"),o=r.n(e),a=r("YwZP");function u(n){var t=n.path;return o.a.createElement(a.Redirect,{from:t,to:t+"summary/",noThrow:!0})}}}]);
+//# sourceMappingURL=component---src-pages-docs-v-2-09-revocable-contracts-index-js-ed976e30e40d04dad2c8.js.map
